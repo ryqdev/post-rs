@@ -1,4 +1,3 @@
-use std::sync::Arc;
 use reqwest::Error;
 use http::HeaderMap;
 
